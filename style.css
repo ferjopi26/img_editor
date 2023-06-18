@@ -1,0 +1,152 @@
+box{
+	background-image: none;
+	/*background-color:#1aa179;*/
+	border:none;
+	/*border-bottom:1px solid ;*/
+
+}
+
+treeview.view header button {
+	color: #000000;
+	background: #F5F5F5;
+	font-weight: bold;
+}
+
+treeview.view{
+	font-size: 15px;
+	/*font-weight: bold;*/
+	/*font-family: Arial;*/
+	/*background-color: #E4E4E4;*/
+	border-color: #A4A4A4;
+	border: solid;
+}
+
+.label{
+	background-color: #FFFFFF;
+	/*border:1px solid #12109c;*/
+}
+textview.view{
+	border-radius: 10px;
+}
+
+entry{
+	/*margin:5px;*/
+	/*padding: 5px;*/
+	border-radius: 0px;
+	border:1px solid #12109c;
+
+}
+
+entry:focus{
+	background-image: none;
+	background-color: #DDDD88;	
+}
+
+button{
+	/*border-radius: 0%;*/
+	/*background-color:#008B8B;*/
+	/*color: #008000;*/
+	/*border-bottom:1px solid #008B8B;*/
+	border:none;
+	border:1px solid #12109c;
+	font-size:15px;
+	font-weight: bold
+}
+
+.danger{
+	/*background-color: #FF0000;*/
+	background-image: none;
+	background-color:#FF0000; 
+	color: #FFFFFF;
+	/*border-radius:5px;*/
+	border:none;
+	/*border-bottom:1px solid #008B8B;*/
+	box-shadow: none;
+	font-size: 15px;
+	/*font-weight: bold;
+	font-family: Arial;*/
+}
+
+.primary{
+	background-image: none;
+	background-color:#0068FF;
+	color: #FFFFFF;
+	/*border-radius:5px;*/
+	/*border:none;*/
+	border-bottom:1px solid #008B8B;
+	box-shadow: none;
+	font-size: 15px;
+	/*font-weight: bold;
+	font-family: Arial;*/
+}
+
+.secondary{
+	background-image: none;
+	background-color:#BFBFBF;
+	color: #000000;
+	/*border-radius:5px;*/
+	border:none;
+	/*border-bottom:1px solid #008B8B;*/
+	box-shadow: none;
+	font-size: 15px;
+	/*font-weight: bold;*/
+	/*font-family: Arial;*/
+}
+
+.info{
+	background-image: none;
+	background-color: #0dcaf0;
+	color: #000000;
+	/*border-radius:5px;*/
+	border:none;
+	box-shadow: none;
+	font-size: 15px;
+}
+
+.neutral{
+	background-color:#CCCCCC;
+	color: #CCCCCC;
+	border: none;
+	background-image: none;
+	border-radius: 50%;
+}
+
+.red{
+	background-color: #FF0000;
+	color: #FF0000;
+	border: none;
+	background-image: none;
+	border-radius: 50%;
+}
+
+.orange{
+	background-color: #ffa348;
+	color: #FFA348;
+	border: none;
+	background-image: none;
+	border-radius: 50%;
+}
+
+.yellow{
+	background-color: #f8e45c;
+	color: #f8e45c;
+	border: none;
+	background-image: none;
+	border-radius: 50%;
+}
+
+.green{
+	background-color: #26A269;
+	color: #26A269;
+	border: none;
+	background-image: none;
+	border-radius: 50%;
+}
+
+.blue{
+	background-color: #1A5AB4;
+	color: #1A5AB4;
+	border: none;
+	background-image: none;
+	border-radius: 50%;
+}
